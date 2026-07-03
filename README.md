@@ -1,2 +1,6 @@
 # beaglebone-black-docs
-internet-over-usb config, TFTP server config etc
+1. Internet-over-usb:-
+
+    Warning: Run the usbnet.sh with root privilage 
+
+2. TFTP server:
